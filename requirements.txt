@@ -1,0 +1,4 @@
+customtkinter==5.1.2
+darkdetect==0.8.0
+exif==1.6.0
+plum-py==0.8.5
